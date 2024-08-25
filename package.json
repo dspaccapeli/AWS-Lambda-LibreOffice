@@ -1,0 +1,16 @@
+{
+  "name": "libreofficelambda",
+  "version": "0.0.1",
+  "description": "Dockerized AWS Lambda based on a premade image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lambda",
+    "libreoffice",
+    "docker"
+  ],
+  "author": "dans",
+  "license": "ISC"
+}
